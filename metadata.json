@@ -1,0 +1,6 @@
+{
+  "name": "RFM Pulse — Real-Time Customer Segmentation",
+  "description": "Real-time customer segmentation dashboard using Recency, Frequency, and Monetary (RFM) analysis, transactional data cleaning, behavioral cohort matrices, and targeted marketing playbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
